@@ -1,0 +1,4 @@
+jwt:
+  iss: "shuchen" # 发行人
+  secretKey: "shuchen" # 密钥
+  expirationTime: 2592000 # 过期时间

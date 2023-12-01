@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="cn.chenshujun.mapper.UserMapper">
+
+    <!--    通过用户名称查询用户所有信息    -->
+    <select id="queryUsernameByAll" resultType="user">
+        select u.*, r.name as rolename
+        from user as u
+                 left join role as r on u.rid = r.id
+        where username = #{username}
+    </select>
+
+    <!--    通过用户ID查询用户所有信息    -->
+    <select id="queryIdByAll" resultType="user">
+        select *
+        from user
+        where id = #{id}
+    </select>
+
+    <!--    添加用户    -->
+    <insert id="addUser">
+        insert into user(username, password, sort) value (#{username}, #{password}, #{sort})
+    </insert>
+
+    <!--    查询拥有多少分页    -->
+    <select id="queryPage" resultType="integer">
+        select count(*) / #{limit}
+        from user
+    </select>
+
+    <!--    分页查询所有用户    -->
+    <select id="queryLimitAll" resultType="user">
+        select id, username, age, rid
+        from user
+        where id > #{start}
+          and delete_time is null
+        limit #{limit}
+    </select>
+
+</mapper>

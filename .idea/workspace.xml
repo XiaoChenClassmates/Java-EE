@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e080ac9d-74ce-4000-b184-d457c881c119" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Mapper.xml" />
+        <option value="Application.yml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YFiELJhPJX4t92ybEhAQBfj0Ey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Application.executor": "Run",
+    "WebServerToolWindowFactoryState": "true",
+    "com.starxg.mybatislog.MyBatisLogConsoleFilter.Keywords": "",
+    "com.starxg.mybatislog.MyBatisLogConsoleFilter.Parameters": "Parameters: ",
+    "com.starxg.mybatislog.MyBatisLogConsoleFilter.Preparing": "Preparing: ",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/file/java/SpringBoot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\file\java\Microservices\src\main\resources\mapper" />
+      <recent name="E:\file\java\Microservices\src\main\java\cn\chenshujun\controller" />
+      <recent name="E:\file\java\Microservices\src\main\java\cn\chenshujun\mapper" />
+      <recent name="E:\file\java\Microservices\src\main\java\cn\chenshujun\model" />
+      <recent name="E:\file\java\Microservices\src\main\java\cn\chenshujun\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\file\java\Microservices\src\main\resources\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.chenshujun.Main" />
+      <module name="Microservices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.chenshujun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Microservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.chenshujun.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.chenshujun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e080ac9d-74ce-4000-b184-d457c881c119" name="更改" comment="" />
+      <created>1700127615978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700127615978</updated>
+      <workItem from="1700127617018" duration="1206000" />
+      <workItem from="1700138851879" duration="667000" />
+      <workItem from="1700140559456" duration="256000" />
+      <workItem from="1700140832657" duration="4315000" />
+      <workItem from="1700147904756" duration="6000" />
+      <workItem from="1700147919775" duration="60000" />
+      <workItem from="1700147988361" duration="362000" />
+      <workItem from="1700148364463" duration="152000" />
+      <workItem from="1700148534625" duration="1454000" />
+      <workItem from="1700150005345" duration="4579000" />
+      <workItem from="1700212317830" duration="733000" />
+      <workItem from="1700230088004" duration="722000" />
+      <workItem from="1700231362796" duration="838000" />
+      <workItem from="1700293431886" duration="2297000" />
+      <workItem from="1700315387559" duration="7000" />
+      <workItem from="1700554869580" duration="13000" />
+      <workItem from="1700556061678" duration="10000" />
+      <workItem from="1700633209229" duration="7507000" />
+      <workItem from="1700640821798" duration="629000" />
+      <workItem from="1700641830132" duration="17000" />
+      <workItem from="1700723289305" duration="42000" />
+      <workItem from="1700824132554" duration="15000" />
+      <workItem from="1700824776545" duration="56000" />
+      <workItem from="1701239236593" duration="7421000" />
+      <workItem from="1701246743690" duration="1697000" />
+      <workItem from="1701248476609" duration="841000" />
+      <workItem from="1701259567722" duration="621000" />
+      <workItem from="1701395896859" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
